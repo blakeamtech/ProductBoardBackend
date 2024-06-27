@@ -1,0 +1,4 @@
+pandas
+bs4
+pyspark
+-e git+https://github.com/boto/boto3#egg=boto3
